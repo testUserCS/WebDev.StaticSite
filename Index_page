@@ -12,7 +12,7 @@ This is a website
 	<nav> <!--defines a set of navigation links-->
 		<a href = "Index_page">Home</a>
 		<a href  = "content_1">Power Levels</a><!--a tag is used to define a hyperlink-->
-		<a href = "content_2">Content2</a>
+		<a href = "content_2">DBZ Bio</a>
 		
 	</nav>
 
@@ -21,7 +21,7 @@ This is a website
 <body>
 
 <img src="goku.jpg" alt = "DBZ Goku">
-
+<p>page creation date: 9/24/2016</P>
 
 </body>
 </html>

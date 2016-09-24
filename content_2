@@ -6,12 +6,24 @@ Content Page
 
 <head>
 	<link rel="stylesheet" href = "stylePage.css"><!--links to the css page-->
-	<h1>Content Page 2</h1>
+	<h1>DBZ Bio</h1>
 	
 	<nav>
 		<a href="Index_page">Home</a>
 	</nav>
 
 </head>
+
+<body>
+<p>Dragon Ball Z follows the adventures of the adult Goku who, along with his companions, defends the earth against an assortment of villains ranging from intergalactic space fighters and conquerors, unnaturally powerful androids and near indestructible magical creatures. While the original Dragon Ball anime followed Goku through childhood into adulthood, Dragon Ball Z is a continuation of his adulthood life, but at the same time parallels the maturation of his son, Gohan, as well as characters from Dragon Ball and more. The separation between the series is also significant as the latter series takes on a more dramatic and serious tone. The anime also features characters, situations and back-stories not present in the original manga.</p>
+
+<a class="ep" href="http://watch-dbz.tv/dragon-ball-z-episode-1" target="_blank">Watch the first episode here</a>
+
+
+
+
+
+<p>page creation date: 9/24/2016</P>
+</body>
 
 </html>
