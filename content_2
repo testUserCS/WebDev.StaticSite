@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<title>
+Content Page
+</title>
+
+<head>
+	<link rel="stylesheet" href = "stylePage.css"><!--links to the css page-->
+	<h1>Content Page 2</h1>
+	
+	<nav>
+		<a href="Index_page">Home</a>
+	</nav>
+
+</head>
+
+</html>

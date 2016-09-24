@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<title>
+Content Page
+</title>
+
+<head>
+	<link rel="stylesheet" href = "stylePage.css"><!--links to the css page-->
+	<h1>Power Levels</h1>
+	<nav>
+		<a href="Index_page">Home</a>
+	</nav>
+</head>
+
+<body>
+	<p>
+		This table shows the power levels based on the highest recorded values in each Dragon Ball Z season, saga or movie.
+	</p>
+	<table>
+		<tr>
+			<th>      </th>
+			<th>SSYN1</th>
+			<th>SSYN2</th>
+			<th>SSYN3</th>
+		</tr>
+		<tr>
+			<th>Goku</th>
+			<td>37,500,000,000</td>
+			<td>75,000,000,000</td>
+			<td>300,000,000,000</td>
+		</tr>
+		<tr>
+			<th>Gohan</th>
+			<td>23,750,000,000</td>
+			<td>55,000,000,000</td>
+			<td>N/A</td>
+		</tr>
+		<tr>
+			<th>Vegeta</th>
+			<td>27,500,000,000</td>
+			<td>75,000,000,000</td>
+			<td>N/A</td>
+		</tr>
+	</table>
+
+</body>
+
+</html>
